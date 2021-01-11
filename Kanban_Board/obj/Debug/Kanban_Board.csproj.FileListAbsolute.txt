@@ -1,0 +1,58 @@
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\Kanban_Board.exe.config
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\Kanban_Board.exe
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\Kanban_Board.pdb
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.Properties.Resources.resources
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.exe
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.pdb
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.LoginForm.resources
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.KanbanBoard.resources
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.WorkerLogin.resources
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\MySql.Data.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\Google.Protobuf.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\Zstandard.Net.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\Renci.SshNet.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Buffers.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\MySql.Data.xml
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csproj.CopyComplete
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.exe.config
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Memory.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artur\Desktop\вышка\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.Edit.resources
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\Kanban_Board.exe.config
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\Kanban_Board.exe
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\Kanban_Board.pdb
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\MySql.Data.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\Google.Protobuf.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\Zstandard.Net.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\Renci.SshNet.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Buffers.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Memory.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\bin\Debug\MySql.Data.xml
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.exe.config
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.Edit.resources
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.KanbanBoard.resources
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.LoginForm.resources
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.Properties.Resources.resources
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.WorkerLogin.resources
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.csproj.CopyComplete
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.exe
+C:\Users\Artur\Desktop\вышка\в прошлом\курсач\Kanban_Board\Kanban_Board\obj\Debug\Kanban_Board.pdb
